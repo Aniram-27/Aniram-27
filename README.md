@@ -22,15 +22,11 @@ mis habilidades de programación y desarrollar soluciones
 
 ## Proyectos destacados
 
-### Proyecto 1 — [Nombre del proyecto]
-Descripción breve de lo que hace.
-- Tecnologías: [Tecnologías utilizadas]
-- Código: [Enlace al repositorio]
+### Proyecto 1 — task-manager-app
+Web full stack
+- Tecnologías: React, Typescript, Node, JavaScript, HTML y CSS
 
-### Proyecto 2 — [Nombre del proyecto]
-Descripción breve de lo que hace.
-- Tecnologías: [Tecnologías utilizadas]
-- Código: [Enlace al repositorio]
+
 
 ##  Objetivos
 
