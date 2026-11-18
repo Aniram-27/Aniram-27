@@ -26,6 +26,10 @@ mis habilidades de programación y desarrollar soluciones
 Web full stack
 - Tecnologías: React, Typescript, Node, JavaScript, HTML y CSS
 
+### Proyectos en los que he colaborado
+  ## Running la Safor
+
+  Aplicacion deportiva creada como proyecto durante la carrera, la cuenta propietaria del repositorio es mi otra cuenta para trabajos de la universidad.
 
 
 ##  Objetivos
